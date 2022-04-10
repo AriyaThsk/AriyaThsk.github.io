@@ -1,7 +1,6 @@
 .myDiv {
     margin-bottom: 10px;
     font-size:20px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .myDiv2 {
@@ -20,7 +19,7 @@ input[type=text] {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #28b82d;
     color: white;
     padding: 10px 10px;
     margin-top: 4px;
